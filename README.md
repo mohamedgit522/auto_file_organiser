@@ -25,9 +25,6 @@ Bash 4 or higher (macOS ships with Bash 3 by default)
 
 On macOS, you can install a newer version using Homebrew:
 
-bash
-Copy
-Edit
 brew install bash
 file command (comes with most Unix systems)
 
